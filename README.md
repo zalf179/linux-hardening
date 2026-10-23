@@ -51,7 +51,7 @@ ansible-galaxy collection install community.general ansible.posix
 
    ```ini
    [ubuntu]
-   192.168.x.x ansible_user=youruser ansible_ssh_private_key_file=~/.ssh/id_ed25519
+   192.168.x.x ansible_user=youruser 
    ```
 
 3. Test connectivity:
