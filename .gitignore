@@ -1,0 +1,5 @@
+inventory.ini
+secrets.yml
+*.retry
+*.pem
+id_*
