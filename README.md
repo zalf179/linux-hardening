@@ -2,7 +2,7 @@
 
 An Ansible playbook that hardens an Ubuntu server (tested on Ubuntu 24.04 running in a VMware VM). Built as a learning project for infrastructure automation and Linux security.
 
-**Result:** Lynis hardening index went from **67 → 80** after running the playbook.
+**Result:** Lynis hardening index went **80** after running the playbook.
 
 ## What it does
 
